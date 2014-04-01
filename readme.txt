@@ -1,0 +1,1 @@
+This is just a thing to keep tiny portions of code I've made for practice. At least they work.
